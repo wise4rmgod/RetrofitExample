@@ -7,7 +7,7 @@ Retrofit Example
 
 Main Activity
 
-![Master Activity](https://github.com/wise4rmgod/UpNepa/blob/master/Screenshot_20181201-171117.png)
+![Master Activity](https://github.com/wise4rmgod/RetrofitExample/blob/master/Screenshot_20181116-120522.png)
 
 # Library Used
 
